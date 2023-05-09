@@ -1,1 +1,2 @@
-
+The run_everything.py file is used to reduce data and perfrom a sky subtraction as well as a coadd of the exposures if desired.
+The get_vel_ew_V3.py file is used to fit a RV template the the CaT lines, as well as measuring the equivalent width of the CaT lines.
